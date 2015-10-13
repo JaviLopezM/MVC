@@ -15,7 +15,6 @@ class Model
     }
 }
 class View
-class View
 {
     private $model;
     private $controller;
@@ -38,7 +37,7 @@ class Controller
     }
 
     public function clicked() {
-        $this->model->string = “Updated Data, thanks to MVC and PHP!”
+        $this->model->string = "Updated Data, thanks to MVC and PHP!";
     }
 }
 
